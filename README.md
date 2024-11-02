@@ -1,2 +1,2 @@
 # Wiki_Sanic
-# Sanic basic tutorial
++ Please see Wiki in details
